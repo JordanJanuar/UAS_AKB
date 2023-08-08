@@ -1,0 +1,6 @@
+com.example.uas_10120013.test.app-core-1.5.0-0 C:\Users\jorda\.gradle\caches\transforms-3\ca9cc7bbaf49a548da88bf164dfaa56d\transformed\core-1.5.0\res
+com.example.uas_10120013.test.app-annotation-experimental-1.3.0-1 C:\Users\jorda\.gradle\caches\transforms-3\d141e4acf9080b98423944b6575fd0dd\transformed\annotation-experimental-1.3.0\res
+com.example.uas_10120013.test.app-androidTest-2 C:\Users\jorda\AndroidStudioProjects\UAS_AKB-main\app\build\generated\res\resValues\androidTest\debug
+com.example.uas_10120013.test.app-mergeDebugAndroidTestResources-3 C:\Users\jorda\AndroidStudioProjects\UAS_AKB-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.uas_10120013.test.app-mergeDebugAndroidTestResources-4 C:\Users\jorda\AndroidStudioProjects\UAS_AKB-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.uas_10120013.test.app-merged_res-5 C:\Users\jorda\AndroidStudioProjects\UAS_AKB-main\app\build\intermediates\merged_res\debugAndroidTest

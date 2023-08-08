@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple">#ADD8E6</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">UAS_10120013</string>
+    <string name="default_web_client_id" translatable="false">1047302082119-d1taoq6kabtav480mh4uk3mqa77vu90h.apps.googleusercontent.com</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="gcm_defaultSenderId" translatable="false">1047302082119</string>
+    <string name="google_api_key" translatable="false">AIzaSyAvInzpbA6IJyt_4ytM5DKm_yOW8GTI-kY</string>
+    <string name="google_app_id" translatable="false">1:1047302082119:android:edf3d86b760354a4d1ab62</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvInzpbA6IJyt_4ytM5DKm_yOW8GTI-kY</string>
+    <string name="google_storage_bucket" translatable="false">uas-akb-10120013.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">uas-akb-10120013</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#ADD8E6</item>
+        <item name="colorPrimaryDark">#800000</item>
+        <item name="colorAccent">#808080</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="Widget.MaterialComponents.AppBarLayout.PrimarySurface">
+        
+        
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="Widget.MaterialComponents.Toolbar.PrimarySurface">
+        
+        
+    </style>
+    <style name="Base.Theme.UAS_10120013" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="Theme.UAS_10120013" parent="Base.Theme.UAS_10120013"/>
+    <style name="Theme.UAS_10120013.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.UAS_10120013.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
